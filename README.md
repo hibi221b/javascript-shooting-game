@@ -1,5 +1,7 @@
+https://user-images.githubusercontent.com/29950288/190880397-be852f92-ce86-4e80-b976-3f2a49670fb4.mov
+
 <div align="center">
-  <img width="720" src="https://user-images.githubusercontent.com/29950288/190875922-0413dcaa-929f-404b-998c-13026f449b09.png">
+  <h6>- first 30 seconds -</h6>
 
   <a href="https://hibi221b.github.io/javascript-shooting-game"><h3>JavaScript Shooting Game</h3></a>
   <p>a 2D side-scroller shooting game using JavaScript, which consist of only index.html.</p>
