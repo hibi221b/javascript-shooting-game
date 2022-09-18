@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/29950288/190881480-60f827fb-6f39-4e18-a4a2-8e81f260a6d9.mp4
+https://user-images.githubusercontent.com/29950288/190881703-7c370f93-43ff-41d4-bb07-11e6c9e077f7.mp4
 
 <div align="center">
   <h6>- first 30 seconds -</h6>
